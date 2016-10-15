@@ -1,0 +1,11 @@
+#My virtual environment
+rango101/
+
+#Book
+*.pdf
+
+#compiled py & Database
+*.pyc
+*.DS_Store
+db.sqlite3
+*.key
